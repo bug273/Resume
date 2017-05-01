@@ -1,2 +1,2 @@
-# fvargasgrc
-code for a website
+# Resume
+code for a Resume website. 
